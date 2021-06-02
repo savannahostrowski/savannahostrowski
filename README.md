@@ -1,4 +1,4 @@
-### Hey there! I'm Savannah
+### Hey there! I'm Savannah.
 #### Pronouns: she/her
 
 - ✨ I’m a software engineer working as a program manager on the Python team at Microsoft, specifically on [Pylance](https://github.com/microsoft/pylance-release)
