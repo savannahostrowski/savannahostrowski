@@ -1,6 +1,6 @@
 ## Hey there! I'm Savannah.
 
-- ✨ I’m a software engineer working as a program manager at Microsoft, specifically on improving the Python developer experience and productivity.
+- ✨ I’m a software engineer working as a program manager at Microsoft, working on improving the Python developer experience and productivity.
 
 - 🐍 I primarily work on [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance), Python in the browser via vscode.dev/github.dev, and trying to wrap my head around the general Python language ecosystem (packaging, virtual environments, runtimes, type annotations).
 
