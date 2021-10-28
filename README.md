@@ -8,6 +8,8 @@
 
 - 🛠 I like [physical computing](https://www.physidig.com/), cold brew coffee, spending too much money on mechanical keyboards, playing World of Warcraft (🔮 main: night elf demon hunter, havoc spec), and cooking overly elaborate meals on weekday nights.
 
+- 💾 I'm pretty much always learning about _something_. Right now, it's WebAssembly and compilers.
+
 - 🐈🐈 I have not one but two cats. They're named after food things ([Nori and Miso](https://twitter.com/savostrowski/status/1370063077454929921))!
 
-- ✉ Chat with me on Twitter, @savostrowski (but please don't **ever** call me Sav).
+- ✉ Chat with me on Twitter, [@savostrowski](https://twitter.com/savostrowski) (but please don't **ever** call me Sav).
