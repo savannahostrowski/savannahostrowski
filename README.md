@@ -6,7 +6,7 @@
 
 - 📚 You can read about some of what I've been working on via [the Microsoft Python team blog](https://devblogs.microsoft.com/python/author/saostrowmicrosoft-com/), or listen to me nerd out about [Python things](https://realpython.com/podcasts/rpp/28/) or [why developer experience is user experience](https://www.uxpursuit.com/savannah-ostrowski) on a podcast or two.
 
-- 🛠 I like [physical computing](https://www.physidig.com/), cold brew coffee, spending too much money on mechanical keyboards, playing World of Warcraft (🔮 main: night elf demon hunter, havoc spec), and cooking overly elaborate meals on weekday nights.
+- 🛠 I like [physical computing](https://www.physidig.com/), cold brew coffee, spending too much money on mechanical keyboards, playing World of Warcraft (🔮  main: night elf demon hunter, havoc spec), and cooking overly elaborate meals on weekday nights.
 
 - 💾 I'm pretty much always learning about _something_. Right now, it's WebAssembly and compilers.
 
