@@ -2,7 +2,7 @@
 
 - ✨ I’m a software engineer working as a program manager at Microsoft, improving Python developer experience and productivity.
 
-- 🐍 I primarily work on [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance), Python in the browser via vscode.dev/github.dev, and trying to wrap my head around the general Python language ecosystem (packaging, virtual environments, runtimes, type annotations). 
+- 🐍 I primarily work on [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance), Python in the browser via vscode.dev/github.dev, and trying to wrap my head around the user experience of the Python language ecosystem (packaging, virtual environments, runtimes, type annotations). 
 
 - 📚 You can read about some of what I've been working on via [the Microsoft Python team blog](https://devblogs.microsoft.com/python/author/saostrowmicrosoft-com/), or listen to me nerd out about [Python things](https://realpython.com/podcasts/rpp/28/) or [why developer experience is user experience](https://www.uxpursuit.com/savannah-ostrowski) on a podcast or two.
 
