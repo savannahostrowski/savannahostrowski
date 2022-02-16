@@ -9,7 +9,7 @@
 
 - 🛠 I like [physical computing](https://www.physidig.com/), geeking out about qualitative research methods, cold brew coffee, spending too much money on mechanical keyboards, playing World of Warcraft (🔮 main: night elf demon hunter, havoc spec), and cooking overly elaborate meals on weekday nights.
 
-- 💾 I'm pretty much always learning about _something_. Right now, it's WebAssembly, compilers and Go.
+- 💾 I'm pretty much always learning about _something_. Right now, it's Rust, networking architecture, compilers, and Go.
 
 - 🐈🐈 I have not one but two cats. They're named after food things ([Nori and Miso](https://twitter.com/savostrowski/status/1370063077454929921))!
 
