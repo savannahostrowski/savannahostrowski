@@ -3,7 +3,7 @@
 
 - ✨ I'm a Technical Program Manager at Google, working to make it easier for developers to build multi-device experiences.
 
-- 🐍 Previously, I was the program manager for the [Pylance language server](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) at Microsoft, working to improve developer experience and productivity in products like VS Code, Visual Studio and on Azure. Before that, I worked as an engineer at a variety of startups and consultancies.
+- 🐍 Previously, I was the program manager for the [Pylance language server](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) at Microsoft, working to improve Python developer experience and productivity in products like VS Code, Visual Studio and on Azure. Before that, I worked as an engineer at a variety of startups and consultancies.
 
 - 📚 You can read about some of what I've worked on via [the Microsoft Python team blog](https://devblogs.microsoft.com/python/author/saostrow/) or read about [how I approach improving products using quantitative and qualitative data](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/measurably-improve-your-product-by-combining-qualitative-and-quantitative-methods/). You can also listen to me nerd out about [Python things](https://realpython.com/podcasts/rpp/28/) or [why developer experience is user experience](https://www.uxpursuit.com/savannah-ostrowski) on a podcast or two.
 
