@@ -1,7 +1,7 @@
 
 ## Hey there! I'm Savannah.
 
-- ✨ I'm currently a Technical Program Manager at Google, working to make it easier for developers to build multi-device experiences.
+- ✨ I'm currently a Technical Program Manager at Google, working to make it easier for developers to [build multi-device experiences](https://developer.android.com/multi-device-development).
 
 - 🐍 Previously, I was the program manager for the [Pylance language server](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) at Microsoft, working to improve Python developer experience and productivity in products like VS Code, Visual Studio and on Azure. Before that, I worked as an engineer at a variety of startups and consultancies.
 
