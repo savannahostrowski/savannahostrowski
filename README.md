@@ -1,7 +1,7 @@
 
 ## Hey there 👋 ! I'm Savannah.
 
-- 🚀 I'm a Senior Program Manager in Microsoft's Developer Division, focused on Azure cloud native developer tools and end-to-end experience.
+- 🚀 I'm a Senior Product Manager in Microsoft's Developer Division, focused on Azure cloud native developer tools and end-to-end experience.
 
 - 🐍 Previously, I worked as a Technical Program Manager at Google where I led and managed a large cross-product program focused on accelerating [multi-device experience development](https://developer.android.com/multi-device-development) via tools like the upcoming Cross Device SDK. Before that, I was the program manager for the [Pylance language server](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) at Microsoft, working to improve Python developer experience and productivity in products like VS Code, Visual Studio and on Azure. ...and before that, I worked as a software engineer at a variety of startups and consultancies.
 
