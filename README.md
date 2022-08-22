@@ -13,6 +13,7 @@
 
 - 💾 I'm pretty much always learning about _something_. Right now, it's  Go, cloud native architecture, Kubernetes, and how to garden in the Pacific Northwest.
 
-- 🐈🐈 I have not one but two cats. They're named after food things ([Nori and Miso](https://twitter.com/savostrowski/status/1370063077454929921))!
+- 🐱🐱🐱 I have not one, not two but three cats. They're named after food things ([Nori and Miso](https://twitter.com/savostrowski/status/1370063077454929921) and foster-to-adopt baby [Fig](
+https://twitter.com/savostrowski/status/1560027414217912321?t=cXycaz-DJUPlwpDIvEbf7A&s=19))!
 
 - ✉ Chat with me on Twitter, [@savostrowski](https://twitter.com/savostrowski) (but please don't **ever** call me Sav).
