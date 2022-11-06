@@ -23,6 +23,6 @@ I'm pretty much always learning about _something_. Right now it's:
 - Infrastructure as Code
 
 You can find me a couple different places on the Internet:
-</br>
-<a rel="me" href="https://fosstodon.org/@savannah">Mastodon</a> | [Twitter](https://twitter.com/savostrowski) 
+- Mastodon: [@savannah@fosstodon.org](https://fosstodon.org/@savannah)
+- Twitter: [@savostrowski](https://twitter.com/savostrowski) 
 
