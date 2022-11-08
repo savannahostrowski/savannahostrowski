@@ -1,5 +1,7 @@
 
 ## Hey there! I'm Savannah!
+<a rel="me" href="https://fosstodon.org/@savannah"><img src="https://img.shields.io/mastodon/follow/109277558399216751?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge"></a> [![Twitter Follow](https://img.shields.io/twitter/follow/savostrowski?style=social)](https://twitter.com/savostrowski)
+
 
 ### What I'm working on
 I'm an engineer working as a senior product manager at Microsoft focused on Azure cloud native developer tools and end-to-end experience. I'm the product lead for the open source [Azure Developer CLI](https://github.com/Azure/azure-dev), which accelerates the time it takes for a developer to take an application from local development environment to the cloud (in minutes! with a single step! it rules!).
@@ -21,8 +23,3 @@ I'm pretty much always learning about _something_. Right now it's:
 - Containers
 - Kubernetes
 - Infrastructure as Code
-
-You can find me a couple different places on the Internet:
-- Mastodon: [@savannah@fosstodon.org](https://fosstodon.org/@savannah)
-- Twitter: [@savostrowski](https://twitter.com/savostrowski) 
-
