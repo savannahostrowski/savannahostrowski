@@ -10,5 +10,3 @@ A bit about me...
 Right now, I'm hacking on CLI/TUI projects with Go! ✨
 
 ...I also really 💖 Python.
-
-You can also find me on <a href="https://fosstodon.org/@savannah" rel="me">Mastodon</a> or [Twitter](https://twitter.com/savostrowski).
