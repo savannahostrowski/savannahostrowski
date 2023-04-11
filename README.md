@@ -7,6 +7,7 @@ A bit about me...
 - ✨ Previously worked on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 🐈 Cat mom to [Nori, Miso](https://twitter.com/savostrowski/status/1559183067792650243) + [Momo](https://twitter.com/savostrowski/status/1572073421164650496)
 
-Right now, I'm hacking on CLI/TUI projects with Go! ✨
-
-...I also really 💖 Python.
+Upcoming conferences/talks:
+- [PyCon US](https://us.pycon.org/2023/schedule/presentation/154/) - Accelerate your workflow from local Python prototype to the cloud
+- [Microsoft Build](https://build.microsoft.com/en-US/sessions/15974ac4-9aae-4bb2-9430-1bf42fb47d2d?source=sessions) - Python web apps on Microsoft Azure, Q&A
+- [Microsoft Build](https://build.microsoft.com/en-US/sessions/f71571ba-8dcc-4707-bc9f-f0c66b388bec?source=sessions) - Codespaces to Azure in minutes with the Azure Developer CLI
