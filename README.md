@@ -13,4 +13,3 @@ Upcoming conferences/talks:
   - [Python web apps on Microsoft Azure, Q&A](https://build.microsoft.com/en-US/sessions/15974ac4-9aae-4bb2-9430-1bf42fb47d2d?source=sessions)
   - [Codespaces to Azure in minutes with the Azure Developer CLI](https://build.microsoft.com/en-US/sessions/f71571ba-8dcc-4707-bc9f-f0c66b388bec?source=sessions)
   - [Build a serverless web application end-to-end on Microsoft Azure](https://build.microsoft.com/en-US/sessions/f249ceaa-aa9d-473a-891d-d0dca6cb4191?source=sessions)
-  - [AZD all the things: Get AI apps on Azure fast!](https://build.microsoft.com/en-US/sessions/1e1db93d-11bb-4af1-bb58-52e00e590750?source=sessions)
