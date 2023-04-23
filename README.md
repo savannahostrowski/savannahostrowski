@@ -6,6 +6,8 @@ A bit about me...
 - 📦 Product lead for the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev)
 - ✨ Previously worked on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 🐈 Cat mom to [Nori, Miso](https://twitter.com/savostrowski/status/1559183067792650243) + [Momo](https://twitter.com/savostrowski/status/1572073421164650496)
+- 💖 Python
+
 
 Upcoming conferences/talks:
 - [PyCon US](https://us.pycon.org/2023/schedule/presentation/154/) - Accelerate your workflow from local Python prototype to the cloud
