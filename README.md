@@ -10,7 +10,6 @@ A bit about me...
 
 
 Upcoming conferences/talks:
-- [PyCon US](https://us.pycon.org/2023/schedule/presentation/154/) - Accelerate your workflow from local Python prototype to the cloud
 - Microsoft Build - [all sessions](https://build.microsoft.com/en-US/sessions?search=savannah+ostrowski)
   - [Python web apps on Microsoft Azure, Q&A](https://build.microsoft.com/en-US/sessions/15974ac4-9aae-4bb2-9430-1bf42fb47d2d?source=sessions)
   - [Codespaces to Azure in minutes with the Azure Developer CLI](https://build.microsoft.com/en-US/sessions/f71571ba-8dcc-4707-bc9f-f0c66b388bec?source=sessions)
