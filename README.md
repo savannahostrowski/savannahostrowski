@@ -6,7 +6,7 @@ A bit about me...
 - 📦 Building the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev)
 - ✨ Previously worked on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 🐈 Cat mom to [Nori, Miso](https://twitter.com/savostrowski/status/1559183067792650243) + [Momo](https://twitter.com/savostrowski/status/1572073421164650496)
-- 💖 Python
+- 💖 Python, Go, containers, DevOps, cats.
 
 
 Upcoming conferences/talks:
