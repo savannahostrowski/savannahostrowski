@@ -18,6 +18,6 @@
 - Visual Studio Live! (July 20) - [Why you need the Azure Developer CLI in your life](http://www2.vslive.com/Events/MicrosoftHQ-2023/Sessions/Thursday/VH13-Fast-Focus-Why-you-need-the-Azure-Dev-CLI.aspx)
 
 <br>
-<br>
+
  
 ![`savannahostrowski`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahostrowski&show_icons=true&theme=radical)
