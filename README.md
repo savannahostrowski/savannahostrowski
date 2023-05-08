@@ -24,7 +24,7 @@
   - [GitHub Actions extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
   - [Codespaces](https://github.com/codespaces)
 - Miscellaneous
-  - [Goreleaser](https://github.com/goreleaser/goreleaser)
+  - [GoReleaser](https://github.com/goreleaser/goreleaser)
   - [Poetry](https://github.com/python-poetry/poetry)
  
  
