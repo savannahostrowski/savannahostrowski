@@ -19,6 +19,7 @@
 - Editor tooling
   - [GitHub Actions extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
   - [Codespaces](https://github.com/codespaces)
+  - [Dev Containers](https://containers.dev/)
 - Miscellaneous
   - [GoReleaser](https://github.com/goreleaser/goreleaser)
   - [Poetry](https://github.com/python-poetry/poetry)
