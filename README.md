@@ -1,4 +1,3 @@
-![](header.jfif)
 # **Hey there👋! I'm Savannah!** 
 
 ## **A bit about me...**
