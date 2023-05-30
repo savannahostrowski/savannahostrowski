@@ -9,23 +9,7 @@
 - 💖 Python, Go, containers, DevOps, cats
 
 ## **Upcoming conferences/talks**
-- Visual Studio Live! (July 20) - [Why you need the Azure Developer CLI in your life](http://www2.vslive.com/Events/MicrosoftHQ-2023/Sessions/Thursday/VH13-Fast-Focus-Why-you-need-the-Azure-Dev-CLI.aspx)
-
-## Dev tools that I'm really digging right now
-- CLI libraries
-  - [Typer](https://github.com/tiangolo/typer)
-  - [Rich](https://github.com/textualize/rich)
-  - [Basically everything Charm makes](https://github.com/charmbracelet)
-- Editor tooling
-  - [GitHub Actions extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
-  - [Codespaces](https://github.com/codespaces)
-  - [Dev Containers](https://containers.dev/)
-- Miscellaneous
-  - [GoReleaser](https://github.com/goreleaser/goreleaser)
-  - [Poetry](https://github.com/python-poetry/poetry)
- 
- 
+- Visual Studio Live! (July 20) - [Why you need the Azure Developer CLI in your life](http://www2.vslive.com/Events/MicrosoftHQ-2023/Sessions/Thursday/VH13-Fast-Focus-Why-you-need-the-Azure-Dev-CLI.aspx) 
 <br>
-
  
 ![`savannahostrowski`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahostrowski&show_icons=true&theme=radical)
