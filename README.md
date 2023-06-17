@@ -3,7 +3,7 @@
 ## **A bit about me...**
 - 🛠 I work on building developer tools and experiences at [Microsoft](https://github.com/microsoft) and on [Azure](https://github.com/azure/)
 - 📦 I'm the product lead for the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev)
-- ✨ I previously worked on on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
+- ✨ I previously worked on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 🐈 I have three cats named after Japanese foods - [Nori, Miso](https://twitter.com/savostrowski/status/1559183067792650243) + [Momo](https://twitter.com/savostrowski/status/1572073421164650496)
 - 💖 I love Python (and its community), Go, DevOps, containers, cats and open-source software!
 
