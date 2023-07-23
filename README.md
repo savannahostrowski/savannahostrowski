@@ -9,7 +9,6 @@
 
 
 ## **Upcoming conferences/talks**
-- [Visual Studio Live - Redmond (July 20)](http://www2.vslive.com/Events/MicrosoftHQ-2023/Sessions/Thursday/VH13-Fast-Focus-Why-you-need-the-Azure-Dev-CLI.aspx)
 - [PyGotham TV - Online (October 6-7)](https://2023.pygotham.tv/talks/)
 <br>
  
