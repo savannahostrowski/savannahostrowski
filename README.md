@@ -7,6 +7,12 @@
 - 📢 I like to talk about programming language design (compilers, interpreters), DevOps, containers and open source software
 - 🐈 I have three cats named after Japanese foods - [Nori, Miso](https://twitter.com/savostrowski/status/1559183067792650243) + [Momo](https://twitter.com/savostrowski/status/1572073421164650496)
 
+## Projects
+- [gruyere 🧀](https://github.com/savannahostrowski/gruyere) - A tiny (and pretty) program for viewing + killing listening ports
+- [ghost 👻](https://github.com/savannahostrowski/ghost) - An experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI
+- [ghost-vscode 👻](https://github.com/savannahostrowski/ghost-vscode) - The VS Code extension counterpart to ghost CLI
+- [tree-bubble 🌳🫧](https://github.com/savannahostrowski/tree-bubble) - A TUI tree view for Charm's Bubble Tea framework
+
 
 ## **Upcoming conferences/talks**
 - [PyGotham TV - Online (October 6-7)](https://2023.pygotham.tv/talks/)
