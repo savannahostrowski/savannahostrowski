@@ -15,6 +15,7 @@
 
 
 ## **Upcoming conferences/talks**
+- [Cloud Builders Python Conf (September 6, 2023)](https://www.cloud-builders.tech/en/python-conf)
 - [Azure Developers - Python Day (September 7, 2023)](https://learn.microsoft.com/en-us/events/learn-events/azuredevelopers-pythonday/)
 - [PyGotham TV - Online (October 6-7)](https://2023.pygotham.tv/talks/)
 <br>
