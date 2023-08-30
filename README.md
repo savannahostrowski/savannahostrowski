@@ -19,6 +19,7 @@
 ## **Upcoming conferences/talks**
 - [Cloud Builders Python Conf (September 6, 2023)](https://www.cloud-builders.tech/en/python-conf)
 - [Azure Developers - Python Day (September 7, 2023)](https://learn.microsoft.com/en-us/events/learn-events/azuredevelopers-pythonday/)
+- [Learn Live: DevOps and Deconstruct the E2E Workflow for Testing and Deployment (October 5)](https://learn.microsoft.com/en-us/events/learn-events/learnlive-contoso-app-deconstructed/)
 - [PyGotham TV - Online (October 6-7)](https://2023.pygotham.tv/talks/)
 <br>
  
