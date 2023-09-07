@@ -6,8 +6,6 @@
 - 👩‍💻 I love writing Python and Go.
 - 📢 I like to talk about programming language design (compilers, interpreters), DevOps, containers and open source software
 - 🐈 I have three cats named after Japanese foods - [Nori, Miso](https://twitter.com/savostrowski/status/1559183067792650243) + [Momo](https://twitter.com/savostrowski/status/1572073421164650496)
-- 🎧 When I'm not in meetings, I'm listening to music. Here's what I'm currently listening to: <br>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=224tlpa3nu7dkd5srtvkvicfi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Projects
 - [gruyere 🧀](https://github.com/savannahostrowski/gruyere) - A tiny (and pretty) program for viewing + killing listening ports
