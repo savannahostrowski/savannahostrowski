@@ -1,7 +1,7 @@
 # **Hey there👋! I'm Savannah!** 
 
 ## **A bit about me...**
-- 🛠 I build developer tools at [Microsoft](https://github.com/microsoft) and on [Azure](https://github.com/azure/), notably the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev)
+- 🛠 I build developer tools at [Microsoft](https://github.com/microsoft) and for [Azure](https://github.com/azure/), notably the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev)
 - ✨ I previously worked on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 👩‍💻 I love writing Python and Go.
 - 📢 I like to talk about programming language design (compilers, interpreters), DevOps, containers and open source software
