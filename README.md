@@ -19,7 +19,7 @@
 - ~[Microsoft Build](https://build.microsoft.com/en-US/speakers/0588a295-e731-4e42-948a-a700029f0f23?source=/speakers)~
 - ~[Cloud Builders Python Conf (September 6, 2023)](https://www.cloud-builders.tech/en/python-conf)~
 - ~[Azure Developers - Python Day (September 7, 2023)](https://learn.microsoft.com/en-us/events/learn-events/azuredevelopers-pythonday/)~
-- [VS Code Livestream: Speedrun your deployments from VS Code (September 21, 2023)](https://www.youtube.com/@code/streams)
+- ~[VS Code Livestream: Speedrun your deployments from VS Code (September 21, 2023)](https://www.youtube.com/@code/streams)~
 - [Learn Live: DevOps and Deconstruct the E2E Workflow for Testing and Deployment (October 5, 2023)](https://learn.microsoft.com/en-us/events/learn-events/learnlive-contoso-app-deconstructed/)
 - [PyGotham TV - Online (October 6-7, 2023)](https://2023.pygotham.tv/talks/)
 <br>
