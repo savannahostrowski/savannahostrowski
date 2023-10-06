@@ -21,7 +21,7 @@
 - ~[Azure Developers - Python Day (September 7, 2023)](https://learn.microsoft.com/en-us/events/learn-events/azuredevelopers-pythonday/)~
 - ~[VS Code Livestream: Speedrun your deployments from VS Code (September 21, 2023)](https://www.youtube.com/@code/streams)~
 - ~[Learn Live: DevOps and Deconstruct the E2E Workflow for Testing and Deployment (October 5, 2023)](https://learn.microsoft.com/en-us/events/learn-events/learnlive-contoso-app-deconstructed/)~
-- [PyGotham TV - Online (October 6-7, 2023)](https://2023.pygotham.tv/talks/)
+- ~[PyGotham TV - Online (October 6-7, 2023)](https://2023.pygotham.tv/talks/)~
 - [GitHub Universe - Quickly build and deploy OpenAI apps on Azure, infused with your own data (November 8, 2023)](https://aka.ms/ghu-azure-mainstage)
 - [Microsoft Ignite - Simplified deployments with the Azure Developer CLI (azd) (November 14-17, 2023)](https://ignite.microsoft.com/en-US/sessions/6dcbc10d-205a-4898-a262-5700285466ad?source=sessions)
 <br>
