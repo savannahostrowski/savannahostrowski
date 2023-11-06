@@ -25,7 +25,6 @@
 - [GitHub Universe - Quickly build and deploy OpenAI apps on Azure, infused with your own data (November 8, 2023)](https://aka.ms/ghu-azure-mainstage)
 - [Microsoft Ignite (November 14-17, 2023)](https://ignite.microsoft.com/en-US/home)
   - [Simplified deployments with the Azure Developer CLI (azd) - In-person](https://ignite.microsoft.com/en-US/sessions/6dcbc10d-205a-4898-a262-5700285466ad?source=sessions)
-  - [Productive and secure end-to-end developer experiences powered by AI - In-person + online](https://ignite.microsoft.com/en-US/sessions/16f1a60d-d431-46b2-9ac5-fd3fd28c3c02?source=sessions)
 <br>
  
 ![`savannahostrowski`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahostrowski&show_icons=true&theme=radical)
