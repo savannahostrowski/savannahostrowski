@@ -4,7 +4,7 @@
 - 🛠 I build developer tools at [Microsoft](https://github.com/microsoft) and for [Azure](https://github.com/azure/), notably the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev)
 - ✨ I previously worked on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 👩‍💻 I love Python, Go, containers, DevOps, open source software and cats!
-- 🐈 I have three cats named after Japanese foods - [Nori, Miso](https://twitter.com/savostrowski/status/1559183067792650243) + [Momo](https://twitter.com/savostrowski/status/1572073421164650496)
+- 🐈 I have three cats named after Japanese foods - [Nori, Miso & Momo](cats.jpg)
 
 ## Projects
 - [gruyere 🧀](https://github.com/savannahostrowski/gruyere) - A tiny (and pretty) program for viewing + killing listening ports
