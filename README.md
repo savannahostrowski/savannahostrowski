@@ -2,7 +2,7 @@
 
 ## **A bit about me...**
 - 🛠 I work at Docker as a Staff Product Manager, focused on leading product for the [Docker runtime](https://github.com/moby/moby)
-- ✨ I previously worked as the product lead for the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev) and before that, for [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
+- ✨ I previously worked on [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev) and before that, [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 👩‍💻 I love Python, Go, containers, DevOps, open source software and cats!
 - 🐈 I have three cats named after Japanese foods - [Nori, Miso & Momo](cats.jpg)
 
