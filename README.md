@@ -1,8 +1,8 @@
 # **Hey there👋! I'm Savannah!** 
 
 ## **A bit about me...**
-- 🛠 I build developer tools at [Microsoft](https://github.com/microsoft) and for [Azure](https://github.com/azure/), notably the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev)
-- ✨ I previously worked on [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
+- 🛠 I work at Docker as a Staff Product Manager, focused on leading product for the [Docker runtime](https://github.com/moby/moby)
+- ✨ I previously worked as the product lead for the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev) and before that, for [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 👩‍💻 I love Python, Go, containers, DevOps, open source software and cats!
 - 🐈 I have three cats named after Japanese foods - [Nori, Miso & Momo](cats.jpg)
 
