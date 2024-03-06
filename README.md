@@ -12,9 +12,6 @@
 - [ghost-vscode 👻](https://github.com/savannahostrowski/ghost-vscode) - The VS Code extension counterpart to ghost CLI
 - [tree-bubble 🌳🫧](https://github.com/savannahostrowski/tree-bubble) - A TUI tree view for Charm's Bubble Tea framework
 
-
-## **Upcoming conferences/talks in 2024**
-TBD
 <br>
  
 ![`savannahostrowski`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahostrowski&show_icons=true&theme=radical)
