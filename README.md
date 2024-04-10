@@ -6,11 +6,8 @@
 - 👩‍💻 I love Python, Go, containers, DevOps, open source software and cats!
 - 🐈 I have three cats named after Japanese foods - [Nori, Miso & Momo](cats.jpg)
 
-## Projects
-- [gruyere 🧀](https://github.com/savannahostrowski/gruyere) - A tiny (and pretty) program for viewing + killing listening ports
-- [ghost 👻](https://github.com/savannahostrowski/ghost) - An experimental CLI that uses AI to generate GitHub Actions workflows, using OpenAI
-- [ghost-vscode 👻](https://github.com/savannahostrowski/ghost-vscode) - The VS Code extension counterpart to ghost CLI
-- [tree-bubble 🌳🫧](https://github.com/savannahostrowski/tree-bubble) - A TUI tree view for Charm's Bubble Tea framework
+## What I'm working on
+Currently focused on contributing to CPython
 
 <br>
  
