@@ -9,6 +9,11 @@
 ## What I'm working on
 Currently focused on contributing to CPython
 
+## Upcoming conferences
+- [Container Plumbing Days (April 15)](https://containerplumbing.org/) - attending on behalf of Docker
+- [Open Source Summit North America (April 16-18)](https://events.linuxfoundation.org/open-source-summit-north-america/) - attending on behalf of Docker
+- [PyCon US (May 16-19)](https://us.pycon.org/2024/) 
+
 <br>
  
 ![`savannahostrowski`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahostrowski&show_icons=true&theme=radical)
