@@ -1,7 +1,7 @@
 # **Hey there👋! I'm Savannah!** 
 
 ## **A bit about me...**
-- 🛠 I work at Docker as a Staff Product Manager, focused on leading product for the Docker runtime. I work on [Docker engine](https://github.com/moby/moby), [Docker CLI](https://github.com/docker/cli), Wasm and other OSS components.
+- 🛠 I work at Docker as a Staff Product Manager, leading product for the Docker runtime. I work on [Docker engine](https://github.com/moby/moby), [Docker CLI](https://github.com/docker/cli), Wasm and other OSS components.
 - ✨ I previously worked on the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev) and before that, [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 🐍 I'm a [CPython](https://github.com/python/cpython) contributor!
 - 👩‍💻 I love Python, Go, containers, DevOps, open source software and cats!
