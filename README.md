@@ -9,7 +9,7 @@
 
 ## Upcoming conferences
 - ~[Container Plumbing Days (April 15)](https://containerplumbing.org/) - attending on behalf of Docker~
-- [Open Source Summit North America (April 16-18)](https://events.linuxfoundation.org/open-source-summit-north-america/) - attending on behalf of Docker
+- ~[Open Source Summit North America (April 16-18)](https://events.linuxfoundation.org/open-source-summit-north-america/) - attending on behalf of Docker~
 - [PyCon US (May 16-19)](https://us.pycon.org/2024/)
 - [Microsoft Build (May 21-23)](https://build.microsoft.com/en-US/home) - attending on behalf of Docker
 
