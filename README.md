@@ -5,7 +5,11 @@
 - ✨ I previously worked on the [Azure Developer CLI (`azd`)](https://github.com/azure/azure-dev) and before that, [Pylance](https://github.com/microsoft/pylance-release) and [Python in VS Code](https://github.com/microsoft/vscode-python)
 - 🐍 I'm a [CPython](https://github.com/python/cpython) contributor!
 - 👩‍💻 I love Python, Go, containers, DevOps, open source software and cats!
-- 🐈 I have three cats named after Japanese foods - [Nori, Miso & Momo](cats.jpg)
+- 🐈 I have three cats named after Japanese foods - Nori, Miso & Momo
+<p align="left">
+   <img src="cats.jpg" width="350px"/>
+</p>
+
 
 ## Upcoming conferences
 - ~[Container Plumbing Days (April 15)](https://containerplumbing.org/) - attending on behalf of Docker~
