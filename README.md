@@ -4,5 +4,3 @@
 - 🐍 I'm a [CPython](https://github.com/python/cpython) contributor and triage team member. Currently focusing my contributions on [the JIT](https://peps.python.org/pep-0744/).
 - 👩‍💻 I love Python, Go, containers, DevOps, open source software and cats!
 - 🐈 I have three cats named after Japanese foods - Nori, Miso & Momo
- 
-![`savannahostrowski`'s GitHub stats](https://github-readme-stats.vercel.app/api?username=savannahostrowski&show_icons=true&theme=radical)
