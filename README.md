@@ -1,4 +1,5 @@
-# **Hey there👋! I'm Savannah!** 
+# **Hey there👋! I'm Savannah** 
+_née Savannah Ostrowski_
 
 - 🐍 I'm a [Python](https://github.com/python/cpython) Core Developer, maintaining the JIT[^1][^2] and the argparse module.
 - 🛠 I work on Python developer experience and Notebooks at Snowflake.
