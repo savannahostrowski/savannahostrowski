@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/savannahostrowski/savannahostrowski/refs/heads/main/python_brat.png)
+
 # **Hey there👋! I'm Savannah** 
 _née Savannah Ostrowski_
 
